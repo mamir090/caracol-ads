@@ -288,6 +288,7 @@ contextweb.com, 561913, RESELLER, 89ff185a4c4e857c
 axonix.com, 57869, RESELLER
 rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
 themediagrid.com, J8FXQA, DIRECT, 35d5010d7789b49d
+pubmatic.com, 161673, RESELLER, 5d62403b186f2ace
 ##DIDNA##
 didna.io, 4169, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
@@ -357,6 +358,11 @@ appnexus.com, 10264, DIRECT, f5ab79cb980f11d1
 indexexchange.com, 192450, direct, 50b1c356f2c5c8fc
 adform.com, 2474, DIRECT, 9f5210a2f0999e32
 smartadserver.com, 1743, RESELLER, 060d053dcf45cbf3
+adpone.com, 338132e36cfac6f4c39, direct
+themediagrid.com, VIY354, DIRECT, 35d5010d7789b49d
+connectad.io, 50, DIRECT, 85ac85a30c93b3e5
+indexexchange.com, 196713, direct
+openx.com, 539966405, direct, 6a698e2ec38604c6
 ##SOVRN##
 sovrn.com, 396616, DIRECT, fafdf38b16bf6b2b
 lijit.com, 396616, DIRECT, fafdf38b16bf6b2b
