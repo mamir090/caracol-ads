@@ -370,3 +370,9 @@ lijit.com, 396616-eb, DIRECT, fafdf38b16bf6b2b
 sovrn.com, 257861, DIRECT, fafdf38b16bf6b2b
 lijit.com, 257861, DIRECT, fafdf38b16bf6b2b
 lijit.com, 257861-eb, DIRECT, fafdf38b16bf6b2b
+##ONE TAG##
+onetag.com, 77633887f8fa314, DIRECT
+onetag.com, 77633887f8fa314-OB, DIRECT
+appnexus.com, 13099, RESELLER
+yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
+pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
