@@ -238,8 +238,8 @@ smartadserver.com, 4012, DIRECT
 smartadserver.com, 4071, DIRECT
 smartadserver.com, 4073, DIRECT
 smartadserver.com, 4074, DIRECT
-smartadserver.com, 4042-OB, RESELLER, 060d053dcf45cbf3
-smartadserver.com, 4042, DIRECT, 060d053dcf45cbf3
+smartadserver.com,4042-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com,4042, DIRECT, 060d053dcf45cbf3
 ##TheViewPoint##
 tvp.tv, AB02, DIRECT, 1125b6434104a723
 appnexus.com, 13098, RESELLER, f5ab79cb980f11d1
