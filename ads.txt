@@ -201,7 +201,7 @@ sovrn.com, 260380, RESELLER, fafdf38b16bf6b2b
 lijit.com, 260380, RESELLER, fafdf38b16bf6b2b
 rubiconproject.com, 23844, DIRECT, 0bfd66d529a55807
 smartadserver.com, 3056, DIRECT
-﻿smilewanted.com, 3834, RESELLER
+smilewanted.com, 3834, RESELLER
 improvedigital.com, 1010, RESELLER
 spotxchange.com, 178357, RESELLER, 7842df1d2fe2db34
 spotx.tv, 178357, RESELLER, 7842df1d2fe2db34
