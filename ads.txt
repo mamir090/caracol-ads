@@ -3,7 +3,7 @@ google.com, pub-5186178789274662, DIRECT, f08c47fec0942fa0
 google.com, pub-5453530957573638, DIRECT, f08c47fec0942fa0
 ##Mediastream##
 smartadserver.com, 3101, RESELLER
-pubmatic.com, 156030, RESELLER, 5d62403b186f2ace#---ADBLOCK
+pubmatic.com, 156030, RESELLER, 5d62403b186f2ace#---UNBLOCKIA
 rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807#---SUNMEDIA
 groundtruth.com, 107, RESELLER, 81cbf0a75a5e0e9a
 axonix.com, 57264, RESELLER#---SMART - SUNMEDIA
@@ -135,37 +135,37 @@ smartadserver.com, 4073, RESELLER
 smartadserver.com, 4074, RESELLER
 pubmatic.com,156538,RESELLER,5d62403b186f2ace
 pubmatic.com,81564,RESELLER,5d62403b186f2ace
-adform.com, 1942, DIRECT
-adform.com, 1941, DIRECT
+adform.com, 1942, DIRECT#---RICH AUDIENCE
+adform.com, 1941, DIRECT#---RICH AUDIENCE
 adtech.com, 4687, RESELLER#---MEDIASTREAM
 advertising.com, 7574, DIRECT
 aerserv.com, 2750, RESELLER, 2ce496b9f80eb9fa
 aol.com, 27093, RESELLER
 aol.com, 46658, RESELLER
 aolcloud.net, 4687, RESELLER
-appnexus.com, 2928, DIRECT
-appnexus.com, 8233, DIRECT
-contextweb.com, 560520, RESELLER
-google.com, pub-4673227357197067, RESELLER, f08c47fec0942fa0
-google.com, pub-9115524111147081, RESELLER, f08c47fec0942fa0
+appnexus.com, 2928, DIRECT#---RICH AUDIENCE
+appnexus.com, 8233, DIRECT#---RICH AUDIENCE
+contextweb.com, 560520, RESELLER#---RICH AUDIENCE
+google.com, pub-4673227357197067, RESELLER, f08c47fec0942fa0#---RICH AUDIENCE
+google.com, pub-9115524111147081, RESELLER, f08c47fec0942fa0#---RICH AUDIENCE
 indexexchange.com, 179394, RESELLER
-lijit.com, 249425, RESELLER
+lijit.com, 249425, RESELLER#---RICH AUDIENCE
 mobfox.com, 74240, RESELLER
 mobfox.com, 45499, RESELLER
-openx.com, 539625136, RESELLER
+openx.com, 539625136, RESELLER#---RICH AUDIENCE
 pubmatic.com, 81564, DIRECT, 5d62403b186f2ace
 pubmatic.com, 156538, DIRECT, 5d62403b186f2ace
-rubiconproject.com, 13510, DIRECT
+rubiconproject.com, 13510, DIRECT#---RICH AUDIENCE
 smaato.com, 1100037086, RESELLER
 smaato.com, 1100000579, RESELLER
-smartadserver.com, 2640, RESELLER
-smartadserver.com, 2441, RESELLER
-sovrn.com, 249425, RESELLER
+smartadserver.com, 2640, RESELLER#---RICH AUDIENCE
+smartadserver.com, 2441, RESELLER#---RICH AUDIENCE
+sovrn.com, 249425, RESELLER#---RICH AUDIENCE
 spotx.tv, 173175, DIRECT
-spotx.tv, 173177, DIRECT
+spotx.tv, 173177, DIRECT#---RICH AUDIENCE
 spotxchange.com, 173175, DIRECT
-spotxchange.com, 173177, DIRECT
-yahoo.com, 57857, RESELLER, e1a5b5b6e3255540
+spotxchange.com, 173177, DIRECT#---RICH AUDIENCE
+yahoo.com, 57857, RESELLER, e1a5b5b6e3255540#---RICH AUDIENCE
 google.com, pub-0796790890307838, RESELLER, f08c47fec0942fa0#---AMPLIFFY
 google.com, pub-1546102924523412, DIRECT, f08c47fec0942fa0
 adpone.com, 1813bfe577448f6ef478, DIRECT
@@ -418,7 +418,7 @@ themediagrid.com, VIY354, DIRECT, 35d5010d7789b49d#--- SUNMEDIA
 connectad.io, 50, DIRECT, 85ac85a30c93b3e5#--- SUNMEDIA
 indexexchange.com, 196713, direct
 openx.com, 539966405, direct, 6a698e2ec38604c6
-##ADBLOCK##
+##UNBLOCKIA##
 unblockia.com, T5Y0UBVGF2, direct
 google.com, pub-2420489985701294, reseller, f08c47fec0942fa0
 criteo.com, B-061293, DIRECT, 9fac4a4a87c2a44f
@@ -463,3 +463,7 @@ rubiconproject.com, 16720, DIRECT, 0bfd66d529a55807
 google.com, pub-1787187386209927, DIRECT, f08c47fec0942fa0
 rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
 rubiconproject.com,12186,DIRECT,0bfd66d529a55807
+##RICH AUDIENCE##
+richaudience.com, 1QC5rfur2y, DIRECT
+pubmatic.com, 156538, RESELLER, 5d62403b186f2ace
+pubmatic.com, 81564, RESELLER, 5d62403b186f2ace
