@@ -253,7 +253,7 @@ spotx.tv, 148395, RESELLER, 7842df1d2fe2db34
 undertone.com, 3648, DIRECT
 appnexus.com, 2234, RESELLER, f5ab79cb980f11d1
 openx.com, 537153564, RESELLER, 6a698e2ec38604c6
-appnexus.com, 9733, RESELLER
+appnexus.com, 9733, RESELLER#---DIGO HISPANIC
 connatix.com, 101557, DIRECT, 2af98acdee0e81ed
 aps.amazon.com, ea05d466-f785-4b9a-a030-6fdc6a39498f, DIRECT
 openx.com, 540191398, RESELLER, 6a698e2ec38604c6
@@ -400,7 +400,6 @@ lijit.com, 327078, RESELLER, fafdf38b16bf6b2b
 lijit.com, 327078-eb, RESELLER, fafdf38b16bf6b2b
 onetag.com, 68827c0f1833c68, RESELLER
 ##ADMAN##
-admanmedia.com, 991, DIRECT
 google.com, pub-9404419171574902, RESELLER, f08c47fec0942fa0#--- SUNMEDIA
 pubmatic.com, 157362, RESELLER, 5d62403b186f2ace#--- SUNMEDIA
 richaudience.com, sZn9xIbZzF, DIRECT#--- SUNMEDIA
@@ -467,3 +466,18 @@ rubiconproject.com,12186,DIRECT,0bfd66d529a55807
 richaudience.com, 1QC5rfur2y, DIRECT
 pubmatic.com, 156538, RESELLER, 5d62403b186f2ace
 pubmatic.com, 81564, RESELLER, 5d62403b186f2ace
+##Digo Hispanic##
+google.com, pub-1624733647695678, RESELLER, f08c47fec0942fa0
+connatix.com,375556500369656, RESELLER, 2af98acdee0e81ed
+tremorhub.com, cd009, RESELLER, 1a4e959a1b50034a
+telaria.com, cd009, RESELLER, 1a4e959a1b50034a
+spotxchange.com, 136839, RESELLER, 7842df1d2fe2db34
+spotx.tv, 136839, RESELLER, 7842df1d2fe2db34
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
+google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0
+contextweb.com, 561340, RESELLER, 89ff185a4c4e857c
+indexexchange.com, 190549, RESELLER
+freewheel.tv, 1064705, RESELLER
+lkqd.net, 593, RESELLER, 59c49fa9598a0117
+supply.colossusssp.com, 332, RESELLER, 6c5b49d96ec1b458
