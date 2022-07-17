@@ -432,6 +432,7 @@ appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 mgid.com, 592657, DIRECT, d4c29acad76ce94f
 pubmatic.com, 159496, reseller, 5d62403b186f2ace
 themediagrid.com, D4JEVS, DIRECT, 35d5010d7789b49d
+openx.com, 557329083, RESELLER, 6a698e2ec38604c6
 ##SOVRN##
 sovrn.com, 396616, DIRECT, fafdf38b16bf6b2b
 lijit.com, 396616, DIRECT, fafdf38b16bf6b2b
