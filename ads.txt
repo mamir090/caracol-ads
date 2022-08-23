@@ -338,6 +338,13 @@ appnexus.com, 4052, RESELLER
 contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
 yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
 ogury.com, e91052177a44df900ef9977b4b8314fe, RESELLER
+rubiconproject.com, 9655, DIRECT, 0bfd66d529a55807
+motionspots.com, 55, DIRECT
+pubmatic.com, 157817, RESELLER, 5d62403b186f2ace
+spotxchange.com, 173711, RESELLER, 7842df1d2fe2db34
+spotx.tv, 173711, RESELLER, 7842df1d2fe2db34
+freewheel.tv, 1238319, RESELLER
+freewheel.tv, 1238335, RESELLER
 ##DIDNA##
 didna.io, 4169, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
