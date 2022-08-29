@@ -43,7 +43,6 @@ aps.amazon.com,bbbb77a7-1459-4c85-af82-cd7e0a773a21,DIRECT
 improvedigital.com, 1062, RESELLER
 improvedigital.com, 543, RESELLER
 sovrn.com, 277115, DIRECT, fafdf38b16bf6b2b
-admanmedia.com, f85eeb2e, DIRECT
 lijit.com, 277115, DIRECT, fafdf38b16bf6b2b
 lijit.com, 277115-eb, DIRECT, fafdf38b16bf6b2b
 adform.com, 582, RESELLER, 9f5210a2f0999e32
@@ -71,7 +70,6 @@ smartadserver.com,4125,RESELLER,060d053dcf45cbf3
 yahoo.com,55029,RESELLER,e1a5b5b6e3255540
 gumgum.com,14141,RESELLER,ffdef49475d318a9
 indexexchange.com,192410,RESELLER,50b1c356f2c5c8fc
-admanmedia.com,726,RESELLER
 pubmatic.com,160006,RESELLER,5d62403b186f2ace
 pubmatic.com,160096,RESELLER,5d62403b186f2ace
 sharethrough.com,7144eb80,RESELLER,d53b998a7bd4ecd2
@@ -345,6 +343,16 @@ spotxchange.com, 173711, RESELLER, 7842df1d2fe2db34
 spotx.tv, 173711, RESELLER, 7842df1d2fe2db34
 freewheel.tv, 1238319, RESELLER
 freewheel.tv, 1238335, RESELLER
+e-planning.net, c5a79293e13e8790, DIRECT, c1ba615865ed87b2
+sonobi.com, 8efb591506, DIRECT, d1a215d9eb5aee9e
+axonix.com, 56222, RESELLER
+uis.mobfox.com, 1263, RESELLER, 5529a3d1f59865be 
+yahoo.com, 59674, RESELLER, e1a5b5b6e3255540
+smartadserver.com, 4140, RESELLER
+smaato.com, 1100042823, RESELLER, 07bcf65f187117b4
+yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
+triplelift.com, 11656, RESELLER, 6c33edb13117fd86
+contextweb.com, 562764, RESELLER, 89ff185a4c4e857c
 ##DIDNA##
 didna.io, 4169, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
