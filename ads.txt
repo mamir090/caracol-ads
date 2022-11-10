@@ -639,6 +639,7 @@ pubmatic.com, 60809, RESELLER, 5d62403b186f2ace
 emxdgt.com, 1918, RESELLER, 1e1d41537f7cad7f
 xandr.com, 3251, RESELLER
 lijit.com, 268479-eb, RESELLER, fafdf38b16bf6b2b
+digohispanicmedia.com, 41, DIRECT
 ##PLAY ON CONTENT##
 playbuzz.com, 0016M00002SWePhQAL, DIRECT
 google.com, pub-9790762811057699, RESELLER, f08c47fec0942fa0
