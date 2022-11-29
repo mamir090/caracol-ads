@@ -138,7 +138,7 @@ pubnative.net, 1006576, RESELLER, d641df8625486a7b#---MEDIASTREAM - SMART
 verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7#---MEDIASTREAM - SMART
 video.unrulymedia.com, 2564526802, RESELLER
-sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2#---SMART
 pubmatic.com,156538,RESELLER,5d62403b186f2ace#---RICH AUDIENCE
 pubmatic.com,81564,RESELLER,5d62403b186f2ace#---RICH AUDIENCE
 adform.com, 1942, DIRECT#---RICH AUDIENCE
@@ -686,6 +686,8 @@ lkqd.net, 282, DIRECT, 59c49fa9598a0117
 amxrtb.com, 105199642, DIRECT
 mcmparent.com, 5220042601, DIRECT
 google.com, pub-4718783897205493, RESELLER, f08c47fec0942fa0
+pubmatic.com, 157163, DIRECT, 5d62403b186f2ace
+babelmedia.global, 5220042601, DIRECT
 ##GUM GUM##
 gumgum.com, 13592, DIRECT, ffdef49475d318a9
 appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
