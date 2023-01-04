@@ -119,7 +119,7 @@ bizzclick.com, 898, DIRECT, 7e936b1feafdaa61
 opera.com, pub4903235437888, DIRECT, 55a0c5fd61378de3
 algorix.co, 60163, DIRECT, 5b394c12fea27a2d
 e-planning.net, 6dd3463134c6ef9b,DIRECT, c1ba615865ed87b2
-pubmatic.com,156631, RESELLER, 5d62403b186f2ace
+pubmatic.com,156631, RESELLER, 5d62403b186f2ace#--- PROJECT AGORA
 improvedigital.com,1556,RESELLER
 openx.com, 541031350, RESELLER, 6a698e2ec38604c6
 aol.com, 57992, RESELLER, e1a5b5b6e3255540
@@ -338,8 +338,8 @@ rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
 themediagrid.com, J8FXQA, DIRECT, 35d5010d7789b49d
 pubmatic.com, 161673, RESELLER, 5d62403b186f2ace
 inmobi.com, c2391dc8a51e420480044992fe6dc4d7, RESELLER, 83e75a7ae333ca9d
-pubmatic.com, 159035, RESELLER, 5d62403b186f2ace
-conversantmedia.com, 40881, RESELLER, 03113cd04947736d
+pubmatic.com, 159035, RESELLER, 5d62403b186f2ace#--- PROJECT AGORA
+conversantmedia.com, 40881, RESELLER, 03113cd04947736d#--- PROJECT AGORA
 appnexus.com, 4052, RESELLER, f5ab79cb980f11d1
 contextweb.com, 561998, RESELLER, 89ff185a4c4e857c
 yahoo.com, 55771, RESELLER, e1a5b5b6e3255540
@@ -369,6 +369,8 @@ sovrn.com, 349013, DIRECT, fafdf38b16bf6b2b
 lijit.com, 349013, DIRECT, fafdf38b16bf6b2b
 lijit.com, 349013-eb, DIRECT, fafdf38b16bf6b2b
 appnexus.com, 1019, RESELLER, f5ab79cb980f11d1
+google.com, pub-2441454515104767, DIRECT, f08c47fec0942fa0
+rubiconproject.com, 25188, RESELLER, 0bfd66d529a55807
 ##DIDNA##
 didna.io, 4169, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
@@ -472,7 +474,6 @@ onetag.com, 68827c0f1833c68, RESELLER
 sharethrough.com, OarUSa7z, RESELLER, d53b998a7bd4ecd2
 e-planning.net,822da4645356abd1,RESELLER,c1ba615865ed87b2
 rubiconproject.com,12186,RESELLER,0bfd66d529a55807
-pubmatic.com,156631,RESELLER,5d62403b186f2ace
 indexexchange.com, 190243, RESELLER, 50b1c356f2c5c8fc
 sonobi.com, 8efb591506, RESELLER, d1a215d9eb5aee9e
 smartadserver.com, 2289-OB, RESELLER, 060d053dcf45cbf3
@@ -498,7 +499,6 @@ onetag.com,59aa7be4921bac8,RESELLER
 advertising.com,28246,RESELLER
 rubiconproject.com,20050,RESELLER,0bfd66d529a55807
 smartadserver.com,3817,RESELLER
-conversantmedia.com,40881,RESELLER,03113cd04947736d
 indexexchange.com,184738,RESELLER, 50b1c356f2c5c8fc
 rubiconproject.com,12266,RESELLER,0bfd66d529a55807
 video.unrulymedia.com,188404962,RESELLER
@@ -514,7 +514,6 @@ spotxchange.com,82068,RESELLER,7842df1d2fe2db34
 spotx.tv,82068,RESELLER,7842df1d2fe2db34
 admixer.co.kr,1511,RESELLER
 pubmatic.com,156931,RESELLER,5d62403b186f2ace
-pubmatic.com,159035,RESELLER,5d62403b186f2ace
 lemmatechnologies.com,89,RESELLER,7829010c5bebd1fb
 smartyads.com,478,RESELLER,fd2bde0ff2e62c5d
 ##ADPONE##
