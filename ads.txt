@@ -597,6 +597,7 @@ rubiconproject.com, 13132, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 16720, DIRECT, 0bfd66d529a55807
 google.com, pub-1787187386209927, DIRECT, f08c47fec0942fa0
 rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807#'---DIGO HISPANIC
+adsmovil.com, 100249493, DIRECT
 rubiconproject.com,12186,DIRECT,0bfd66d529a55807
 ##RICH AUDIENCE##
 richaudience.com, 1QC5rfur2y, DIRECT
