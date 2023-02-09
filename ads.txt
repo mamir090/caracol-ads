@@ -902,3 +902,6 @@ rubiconproject.com, 24140, RESELLER, 0bfd66d529a55807
 ##Retargetly##
 google.com, pub-2157835524146343, DIRECT, f08c47fec0942fa0
 google.com, pub-2157835524146343, RESELLER, f08c47fec0942fa0
+##TRIPLELIFT##
+triplelift.com, 13521, DIRECT, 6c33edb13117fd86
+triplelift.com, 13521-EB, DIRECT, 6c33edb13117fd86
