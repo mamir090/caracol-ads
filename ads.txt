@@ -586,6 +586,8 @@ admixer.co.kr,1511,RESELLER
 pubmatic.com,156931,RESELLER,5d62403b186f2ace
 lemmatechnologies.com,89,RESELLER,7829010c5bebd1fb
 smartyads.com,478,RESELLER,fd2bde0ff2e62c5d
+triplelift.com, 8495-EB, RESELLER, 6c33edb13117fd86
+smartadserver.com, 2289, RESELLER
 ##ADPONE##
 adpone.com, 6cf80b3aeee0556df1bd, DIRECT
 adform.com, 2474, DIRECT, 9f5210a2f0999e32#--- HCODE
