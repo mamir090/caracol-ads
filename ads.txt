@@ -907,3 +907,7 @@ google.com, pub-2157835524146343, RESELLER, f08c47fec0942fa0
 ##TRIPLELIFT##
 triplelift.com, 13521, DIRECT, 6c33edb13117fd86
 triplelift.com, 13521-EB, DIRECT, 6c33edb13117fd86
+##AMAZON##
+aps.amazon.com,d51fc2ad-7a26-411e-bf35-2a2f883ae1fa,DIRECT
+yieldmo.com,2719019867620450718,RESELLER
+risecodes.com,63832beef8189a00015cb6d3,RESELLER
