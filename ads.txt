@@ -849,7 +849,7 @@ indexexchange.com, 191730, RESELLER, 50b1c356f2c5c8fc
 improvedigital.com, 1680, DIRECT
 adyoulike.com, 83d15ef72d387a1e60e5a1399a2b0c03, DIRECT, 4ad745ead2958bf7
 sharethrough.com, AXS5NfBr, DIRECT, d53b998a7bd4ecd2
-seedtag.com, 5da5de4db000440600d0becb, DIRECT
+seedtag.com, 5da5de4db000440600d0becb, DIRECT
 33across.com, 0010b00002MptHCAAZ, DIRECT, bbea06d9c4d2853c
 triplelift.com, 2792, RESELLER, 6c33edb13117fd86
 openx.com, 558758631, RESELLER, 6a698e2ec38604c6
