@@ -361,12 +361,8 @@ themediagrid.com, IRK975, RESELLER, 35d5010d7789b49d
 conversantmedia.com, 41996, DIRECT, 03113cd04947736d
 adform.com, 2708, RESELLER, 9f5210a2f0999e32
 contextweb.com,562863,DIRECT,89ff185a4c4e857c
-MANAGERDOMAIN=hcodemedia.com 
+MANAGERDOMAIN=hcodemedia.com
 OWNERDOMAIN=caracoltv.com
-OWNERDOMAIN=gol.caracoltv.com
-OWNERDOMAIN=noticias.caracoltv.com
-OWNERDOMAIN=play.caracoltv.com
-OWNERDOMAIN=sports.caracoltv.com
 ##SMART##
 smartadserver.com, 4042, DIRECT
 admanmedia.com, 43, RESELLER#--- SUNMEDIA
@@ -774,6 +770,8 @@ emxdgt.com, 1918, RESELLER, 1e1d41537f7cad7f#--- HCODE
 xandr.com, 3251, RESELLER#--- HCODE
 lijit.com, 268479-eb, RESELLER, fafdf38b16bf6b2b#--- HCODE
 digohispanicmedia.com, 41, DIRECT
+ogury.com, c59c9bed-ade8-459b-9d7c-356a3c66f196, RESELLER
+appnexus.com, 11470, RESELLER
 ##PLAY ON CONTENT##
 playbuzz.com, 0016M00002SWePhQAL, DIRECT
 google.com, pub-9790762811057699, RESELLER, f08c47fec0942fa0
