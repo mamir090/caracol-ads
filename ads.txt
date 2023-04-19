@@ -650,6 +650,10 @@ indexexchange.com, 193216, RESELLER, 50b1c356f2c5c8fc
 openx.com, 557083110, RESELLER, 6a698e2ec38604c6
 outbrain.com, 00fe7cdd9f63b40ea93c0c4ae346bf4541, DIRECT
 yahoo.com, 59702, DIRECT, e1a5b5b6e3255540
+betweendigital.com, 45128, DIRECT
+freewheel.tv, 893873, RESELLER
+richaudience.com, lDF5XleM05, DIRECT
+sharethrough.com, TZ1ahFV8, RESELLER, d53b998a7bd4ecd2
 ##SOVRN##
 sovrn.com, 396616, DIRECT, fafdf38b16bf6b2b
 lijit.com, 396616, DIRECT, fafdf38b16bf6b2b
