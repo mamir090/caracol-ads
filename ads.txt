@@ -450,6 +450,12 @@ rubiconproject.com, 25194, RESELLER, 0bfd66d529a55807
 adform.com, 2795, RESELLER
 pubmatic.com, 161970, RESELLER, 5d62403b186f2ace
 conversantmedia.com, 100264, RESELLER, 03113cd04947736d
+smartadserver.com, 4577, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4577-OB, RESELLER, 060d053dcf45cbf3
+improvedigital.com, 2222, RESELLER
+onetag.com, 7cd9d7c7c13ff36, DIRECT
+onetag.com, 7cd9d7c7c13ff36-OB, DIRECT
+smartadserver.com, 4111, RESELLER
 ##DIDNA##
 didna.io, 4169, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
@@ -654,6 +660,9 @@ betweendigital.com, 45128, DIRECT
 freewheel.tv, 893873, RESELLER
 richaudience.com, lDF5XleM05, DIRECT
 sharethrough.com, TZ1ahFV8, RESELLER, d53b998a7bd4ecd2
+richaudience.com, 9F65j1nNsk, DIRECT
+sunmedia.tv, 852c0d87-cafc-4bba-a88c-f74cf18086b0, RESELLER, 24794F6
+sunmedia.tv, 852c0d87-cafc-4bba-a88c-f74cf18086b0, RESELLER, 24794F7
 ##SOVRN##
 sovrn.com, 396616, DIRECT, fafdf38b16bf6b2b
 lijit.com, 396616, DIRECT, fafdf38b16bf6b2b
