@@ -490,6 +490,7 @@ freewheel.tv, 1569001, DIRECT
 freewheel.tv, 1569004, RESELLER
 resetdigital.co, 101, DIRECT
 teads.tv, 22148, DIRECT, 15a9c44f6d26cbe1
+openx.com, 559601858, RESELLER, 6a698e2ec38604c6
 ##SMART##
 smartadserver.com, 4042, DIRECT
 smartadserver.com, 4042-OB, RESELLER, 060d053dcf45cbf3
@@ -895,8 +896,6 @@ mcmparent.com, 5220042601, DIRECT
 google.com, pub-4718783897205493, RESELLER, f08c47fec0942fa0
 pubmatic.com, 157163, DIRECT, 5d62403b186f2ace
 babelmedia.global, 5220042601, DIRECT
-pubmatic.com,156538,RESELLER,5d62403b186f2ace
-pubmatic.com,81564,RESELLER,5d62403b186f2ace
 ##GUM GUM##
 gumgum.com, 13592, DIRECT, ffdef49475d318a9
 appnexus.com, 2758, RESELLER, f5ab79cb980f11d1
