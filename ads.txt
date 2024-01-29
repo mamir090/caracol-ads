@@ -351,6 +351,20 @@ yahoo.com, 59052, RESELLER#---RICH AUDIENCE - ADPONE - UNBLOCKIA
 yahoo.com, 59658, RESELLER#---RICH AUDIENCE - ADPONE - UNBLOCKIA
 yieldmo.com, 2719019867620450718, RESELLER#---RICH AUDIENCE - ADPONE - UNBLOCKIA
 sunmedia.tv, 46b4a18d-a01e-4957-a7e1-192db1245e6b, DIRECT
+outbrain.com, 005956db3280a3edc509943683314696bf, RESELLER
+outbrain.com, 00a670afb7f205a88f4f78ec90b4fa7c16, RESELLER
+adyoulike.com, 639201a8e0f88c543a4eadc792fb1058, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9867, RESELLER, f5ab79cb980f11d1
+conversantmedia.com, 40915, RESELLER, 03113cd04947736d
+google.com, pub-1490961421801363, RESELLER, f08c47fec0942fa0
+google.com, pub-1724616865008460, RESELLER, f08c47fec0942fa0
+google.com, pub-5041886492880162, RESELLER, f08c47fec0942fa0
+google.com, pub-8469965667274063, RESELLER, f08c47fec0942fa0
+pubmatic.com, 158120, RESELLER, 5d62403b186f2ace
+smartadserver.com, 2597, RESELLER
+smartadserver.com, 3286, RESELLER
+smartadserver.com, 3459, RESELLER
+appnexus.com, 10736, RESELLER
 ##Teads##
 teads.tv, 11168, DIRECT, 15a9c44f6d26cbe1
 ##Hcode##
@@ -638,6 +652,15 @@ improvedigital.com, 1358, RESELLER
 ampliffy.com, amp00272, DIRECT
 publiffy.com, pub00272, DIRECT
 videoffy.com, vid00272, DIRECT
+media.net, 8CU525I78, RESELLER
+onetag.com, 76b0be2acb7ad45, RESELLER
+onetag.com, 76b0be2acb7ad45-OB, RESELLER
+pubmatic.com, 162945, RESELLER, 5d62403b186f2ace
+smaato.com, 1100049235, RESELLER, 07bcf65f187117b4
+smartadserver.com, 3602-OB, RESELLER, 060d053dcf45cbf
+sovrn.com, 233891, RESELLER, fafdf38b16bf6b2b
+triplelift.com, 12369, RESELLER, 6c33edb13117fd86
+triplelift.com, 12369-EB, RESELLER, 6c33edb13117fd86
 ##PUBMATIC##
 pubmatic.com, 161623, DIRECT, 5d62403b186f2ace
 pubmatic.com, 161624, DIRECT, 5d62403b186f2ace
@@ -724,9 +747,9 @@ sharethrough.com, OTnVcoER, RESELLER, d53b998a7bd4ecd2
 smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 smaato.com, 1100054374, RESELLER, 07bcf65f187117b4
 ##ADPONE##
-adpone.com, 6cf80b3aeee0556df1bd, direct
+adpone.com, 6cf80b3aeee0556df1bd, DIRECT
 ##UNBLOCKIA##
-google.com, pub-2420489985701294, reseller, f08c47fec0942fa0
+google.com, pub-2420489985701294, RESELLER, f08c47fec0942fa0
 criteo.com, B-061293, DIRECT, 9fac4a4a87c2a44f
 sovrn.com, 361193, DIRECT, fafdf38b16bf6b2b
 adform.com, 2823, RESELLER
@@ -736,7 +759,7 @@ onetag.com, 75641ab6564116b, DIRECT
 lijit.com, 361193, DIRECT, fafdf38b16bf6b2b
 lijit.com, 361193-eb, DIRECT, fafdf38b16bf6b2b
 mgid.com, 592657, DIRECT, d4c29acad76ce94f
-pubmatic.com, 159496, reseller, 5d62403b186f2ace
+pubmatic.com, 159496, RESELLER, 5d62403b186f2ace
 themediagrid.com, D4JEVS, DIRECT, 35d5010d7789b49d
  sharethrough.com, TZ1ahFV8, RESELLER, d53b998a7bd4ecd2
 smilewanted.com, 3721, RESELLER
@@ -1042,6 +1065,7 @@ adyoulike.com, 7463c359225e043c111036d7a29affa5, RESELLER, 4ad745ead2958bf7
 minutemedia.com, 01gya4708ddm, RESELLER
 visiblemeasures.com, 1052, RESELLER
 admedia.com, AM1601, RESELLER
+kargo.com,8824,RESELLER
 ##CONNATIX##
 connatix.com, 1400395077953063, DIRECT, 2af98acdee0e81ed
 pubmatic.com, 156592, RESELLER, 5d62403b186f2ace
